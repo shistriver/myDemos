@@ -1,0 +1,25 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shistriver/myDemos.git"
+  },
+  "keywords": [
+    "shi"
+  ],
+  "author": "shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shistriver/myDemos/issues"
+  },
+  "homepage": "https://github.com/shistriver/myDemos#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
